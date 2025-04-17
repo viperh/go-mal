@@ -1,0 +1,5 @@
+This program takes a file input and encrypts it using AES encryption with a key
+
+It can be decrypted but data can be lost if you tamper with the code or the files before decrypting
+
+Use at your own rist!
